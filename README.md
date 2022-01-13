@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on: Data Analyst Projects
-- 🌱 I’m currently learning: AWS, 
+- 🌱 I’m currently learning: AWS 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...Data Analyst/Data Science Projects 
 - 💬 Ask me about ...tech and data science 
