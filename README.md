@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on - DataScience projects.
 - 🤔 I’m looking for help with -Data Analyst/Data Science Projects. 
 - 💬 Ask me about - Tech and data science 
-- 📫 How to reach me: ...
+- 📫 How to reach me:
   - 📩 nivethaanand3196@gmail.com
     <a href="https://www.linkedin.com/in/nivetha-anand/">
    - <img
