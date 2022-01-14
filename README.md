@@ -1,7 +1,8 @@
 ## Hi Guys, this is Nive  👋
 
 
-### A passionate data learner,who loves exploring data and gain meaningful insight from it!Transitioning into the phase of Data Scientist 👩🏻‍💻📊
+### A passionate data learner,who loves exploring data and gain meaningful insight from it!
+### Transitioning from Data Analyst -> Data Scientist 👩🏻‍💻📊
 
 - 🔭 I’m currently working on - Data Analysis Projects, Trying to write blogs. 
 - 🌱 I’m currently learning - AWS, Machine Learning.  
