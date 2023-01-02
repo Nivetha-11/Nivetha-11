@@ -4,8 +4,8 @@
 ### A passionate data learner,who loves exploring data and gain meaningful insight from it!
 ### Transitioning from Data Analyst -> Data Scientist 👩🏻‍💻📊
 
-- 🔭 I’m currently working on - Data Analysis Projects. 
-- 🌱 I’m currently learning - AWS, Machine Learning.  
+- 🔭 I’m currently working on - Data Analysis Projects using python and PowerBI. 
+- 🌱 I’m currently learning - Advancing my career towards Machine Learning.  
 - 👯 I’m looking to collaborate on - DataScience projects.
 - 💬 Ask me about - Tech and data science 
 - 📫 How to reach me:
