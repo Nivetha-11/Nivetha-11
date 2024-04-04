@@ -5,8 +5,8 @@
 ### Transitioning from Data Analyst -> Data Scientist 👩🏻‍💻📊
 
 - 🔭 I’m currently working on - Data Analysis Projects using python and PowerBI. 
-- 🌱 I’m currently learning - Advancing my career towards Machine Learning.  
-- 👯 I’m looking to collaborate on - DataScience projects.
+- 🌱 I’m currently learning - Advancing my career towards product management in Data & AI.   
+- 👯 I’m looking for people to collaborate on - Analytics & Data Science projects.
 - 💬 Ask me about - Tech and data science 
 - 📫 How to reach me:
   - 📩 nivethaanand3196@gmail.com
