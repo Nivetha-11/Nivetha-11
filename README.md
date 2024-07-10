@@ -2,7 +2,7 @@
 
 
 ### A passionate data learner,who loves exploring data and gain meaningful insight from it!
-### Transitioning from Data Analyst -> Data Scientist 👩🏻‍💻📊
+### Always happy to hear opportunities on Data and Digital Innovation Space.
 
 - 🔭 I’m currently working on - Data Analysis Projects using python and PowerBI. 
 - 🌱 I’m currently learning - Advancing my career towards product management in Data & AI.   
