@@ -3,7 +3,7 @@
 
 ### A passionate data learner,who loves exploring data and gain meaningful insight from it!
 ### Always happy to hear opportunities on Data and Digital Innovation Space.
-- 🔭 I’m currently looking for Tech Business Analyst and Data Analyst Opportunities.
+- 🔭 I’m currently looking for Data Analyst Opportunities.
 - 🔭 I’m currently working on - Data Analysis Projects using python and PowerBI. 
 - 🌱 I’m currently learning - Advancing my career towards product management in Data & AI.   
 - 👯 I’m looking for people to collaborate on - Analytics & Data Science projects.
